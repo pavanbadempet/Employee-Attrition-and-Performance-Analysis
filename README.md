@@ -24,6 +24,7 @@ employee attrition.
 
 ## Workflow
 ![Image Alt Text](https://github.com/pavanbadempet/Employee-Attrition-and-Performance-Analysis/blob/f0c407011f792e852a5a79c68bde7be6eaf94088/assets/Workflow.png)
+
 *Figure 1: Schematic diagram of the Workflow*
 
 The workflow involved in analyzing the dataset and identifying driving factors related to analytics 
