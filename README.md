@@ -23,7 +23,9 @@ employee attrition.
 3. Designed dynamic dashboard
 
 ## Workflow
-![Image Alt Text](https://github.com/pavanbadempet/Employee-Attrition-and-Performance-Analysis/blob/f0c407011f792e852a5a79c68bde7be6eaf94088/assets/Workflow.png)
+<p align="center">
+  <img src="https://github.com/pavanbadempet/Employee-Attrition-and-Performance-Analysis/blob/f0c407011f792e852a5a79c68bde7be6eaf94088/assets/Workflow.png">
+</p>
 <p align="center">
   <em>Figure 1: Schematic diagram of the Workflow</em>
 </p>
@@ -36,6 +38,14 @@ data to gain a better understanding of the trends and patterns. Finally, the das
 dynamically to provide real-time insights into the driving factors that contribute to employee 
 attrition. This workflow enables organizations to gain insights into the factors that influence employee 
 attrition and take corrective action to optimize employee productivity and retention.
+
+## Diagram
+<p align="center">
+  <img src="https://github.com/pavanbadempet/Employee-Attrition-and-Performance-Analysis/blob/6df175aa16c4c79a5cb8e967f568fe1f2c614403/assets/Diagram.png">
+</p>
+<p align="center">
+  <em>Figure 2: Overall Description of the Power BI</em>
+</p>
 
 ## Outcome
 1. Generating reports using different visualizations and summarization techniques using Power BI
