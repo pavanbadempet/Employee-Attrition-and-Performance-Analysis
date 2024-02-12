@@ -1,8 +1,10 @@
---Objective
+#Employee-Attrition-and-Performance-Analysis
+
+##Objective
 The objective of this project is to develop analytics and insights that would optimize employee 
 performance and control attrition
 
---Introduction
+##Introduction
 In today's fast-paced business environment, organizations face a significant challenge of retaining 
 their employees. Employee Attrition, which refers to the loss of employees over time, is a critical issue 
 that can have a significant impact on an organization's productivity, profitability, and overall success. 
@@ -14,12 +16,12 @@ In this context, this background highlights the importance of employee performan
 and the role of Data Science and analytics in analyzing relevant datasets to gain insights into 
 employee attrition.
 
---Approach
+##Approach
 1. Analyzed dataset and identified driving factors related to analytics. 
 2. Designed graphs and charts using Power BI based on the factors identified.
 3. Designed dynamic dashboard
 
---Workflow
+##Workflow
 The workflow involved in analyzing the dataset and identifying driving factors related to analytics 
 consists of several stages. The first stage involves a comprehensive analysis of the dataset to identify 
 the relevant factors that contribute to employee attrition. Once the driving factors are identified, the 
@@ -29,14 +31,14 @@ dynamically to provide real-time insights into the driving factors that contribu
 attrition. This workflow enables organizations to gain insights into the factors that influence employee 
 attrition and take corrective action to optimize employee productivity and retention.
 
---Outcome
+##Outcome
 1. Generating reports using different visualizations and summarization techniques using Power BI
 Figure 2: Overall Description of the Power BI
 Figure 1: Schematic diagram of the Workflow
 INTERNSHIP: PROJECT REPORT
 2. Generating Dynamic Dashboards
 
---Enhancement Scope
+##Enhancement Scope
 There are enormous ways to enhance the scope of this project,
 1. One area for enhancement could be the integration of machine learning models to predict future 
 employee attrition based on historical data. This would enable organizations to take proactive 
